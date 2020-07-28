@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=n
+comment1.target=void\ decimal(int)
+comment2.params=s\ c
+comment2.target=int\ hexadecimal(java.lang.String,\ int)
+comment3.params=l\ u
+comment3.target=void\ BinSearch(int,\ int)
+comment4.params=i\ s
+comment4.target=boolean\ linearSearch(int,\ int)
+numComments=5
